@@ -1,0 +1,80 @@
+2025-10-25 15:04:04,618 - INFO - Created the artifacts\raw
+2025-10-25 15:04:09,352 - INFO - Download the data from C:\Users\mohan\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-10-25 15:04:09,706 - INFO - Images moved sucesfully..
+2025-10-25 15:04:09,919 - INFO - Labels moved sucesfully..
+2025-10-25 19:56:20,797 - INFO - Data Processing Initialized...
+2025-10-25 19:56:20,797 - INFO - Loading Data for index 0
+2025-10-25 19:56:20,797 - INFO - Image Path : artifacts/raw\Images\1.jpeg
+2025-10-25 21:18:21,479 - INFO - Model Architecture intialized...
+2025-10-25 21:18:21,483 - INFO - Model Moved to device
+2025-10-25 21:18:21,483 - INFO - Optimizer has been initialized..
+2025-10-25 21:18:21,600 - INFO - Data Processing Initialized...
+2025-10-25 21:18:21,611 - INFO - Data splitted sucesfuly...
+2025-10-25 21:18:21,611 - INFO - Starting epoch 0
+2025-10-25 21:18:21,632 - INFO - Loading Data for index 254
+2025-10-25 21:18:21,632 - INFO - Image Path : artifacts/raw/Images\328.jpeg
+2025-10-25 21:18:22,102 - INFO - Loading Data for index 228
+2025-10-25 21:18:22,102 - INFO - Image Path : artifacts/raw/Images\304.jpeg
+2025-10-25 21:18:22,107 - INFO - Loading Data for index 166
+2025-10-25 21:18:22,107 - INFO - Image Path : artifacts/raw/Images\249.jpeg
+2025-10-25 21:19:17,943 - INFO - Loading Data for index 179
+2025-10-25 21:19:17,996 - INFO - Image Path : artifacts/raw/Images\260.jpeg
+2025-10-25 21:19:18,791 - INFO - Loading Data for index 138
+2025-10-25 21:19:18,791 - INFO - Image Path : artifacts/raw/Images\223.jpeg
+2025-10-25 21:19:18,843 - INFO - Loading Data for index 116
+2025-10-25 21:19:18,843 - INFO - Image Path : artifacts/raw/Images\203.jpeg
+2025-10-25 21:21:00,493 - INFO - Loading Data for index 143
+2025-10-25 21:21:00,570 - INFO - Image Path : artifacts/raw/Images\228.jpeg
+2025-10-25 21:21:01,874 - INFO - Loading Data for index 129
+2025-10-25 21:21:01,876 - INFO - Image Path : artifacts/raw/Images\215.jpeg
+2025-10-25 21:21:01,940 - INFO - Loading Data for index 222
+2025-10-25 21:21:01,940 - INFO - Image Path : artifacts/raw/Images\3.jpeg
+2025-10-25 21:22:54,101 - INFO - Loading Data for index 40
+2025-10-25 21:22:54,146 - INFO - Image Path : artifacts/raw/Images\135.jpeg
+2025-10-25 21:22:55,939 - INFO - Loading Data for index 83
+2025-10-25 21:22:55,942 - INFO - Image Path : artifacts/raw/Images\174.jpeg
+2025-10-25 21:22:55,973 - INFO - Loading Data for index 135
+2025-10-25 21:22:55,973 - INFO - Image Path : artifacts/raw/Images\220.jpeg
+2025-10-25 21:24:32,399 - INFO - Loading Data for index 84
+2025-10-25 21:24:32,448 - INFO - Image Path : artifacts/raw/Images\175.jpeg
+2025-10-25 21:24:34,377 - INFO - Loading Data for index 262
+2025-10-25 21:24:34,419 - INFO - Image Path : artifacts/raw/Images\35.jpeg
+2025-10-25 21:24:35,416 - INFO - Loading Data for index 67
+2025-10-25 21:24:35,416 - INFO - Image Path : artifacts/raw/Images\16.jpeg
+2025-10-25 21:27:44,176 - INFO - Loading Data for index 237
+2025-10-25 21:27:44,550 - INFO - Image Path : artifacts/raw/Images\312.jpeg
+2025-10-25 21:27:46,434 - INFO - Loading Data for index 55
+2025-10-25 21:27:46,438 - INFO - Image Path : artifacts/raw/Images\149.jpeg
+2025-10-25 21:27:46,500 - INFO - Loading Data for index 0
+2025-10-25 21:27:46,503 - INFO - Image Path : artifacts/raw/Images\1.jpeg
+2025-10-25 21:30:21,761 - INFO - Loading Data for index 79
+2025-10-25 21:30:21,825 - INFO - Image Path : artifacts/raw/Images\170.jpeg
+2025-10-25 21:35:12,492 - INFO - Model Architecture intialized...
+2025-10-25 21:35:12,492 - INFO - Model Moved to device
+2025-10-25 21:35:12,498 - INFO - Optimizer has been initialized..
+2025-10-25 21:35:12,689 - INFO - Data Processing Initialized...
+2025-10-25 21:35:12,748 - INFO - Data splitted sucesfuly...
+2025-10-25 21:35:12,748 - INFO - Starting epoch 0
+2025-10-25 21:35:12,835 - INFO - Loading Data for index 9
+2025-10-25 21:35:12,835 - INFO - Image Path : artifacts/raw/Images\107.jpeg
+2025-10-25 21:35:13,338 - INFO - Loading Data for index 4
+2025-10-25 21:35:13,339 - INFO - Image Path : artifacts/raw/Images\102.jpeg
+2025-10-25 21:35:13,392 - INFO - Loading Data for index 6
+2025-10-25 21:35:13,392 - INFO - Image Path : artifacts/raw/Images\104.jpeg
+2025-10-25 21:35:50,745 - INFO - Loading Data for index 3
+2025-10-25 21:35:50,776 - INFO - Image Path : artifacts/raw/Images\101.jpeg
+2025-10-25 21:35:51,535 - INFO - Loading Data for index 7
+2025-10-25 21:35:51,540 - INFO - Image Path : artifacts/raw/Images\105.jpeg
+2025-10-25 21:35:51,584 - INFO - Loading Data for index 1
+2025-10-25 21:35:51,584 - INFO - Image Path : artifacts/raw/Images\10.jpeg
+2025-10-25 21:38:39,834 - INFO - Loading Data for index 0
+2025-10-25 21:38:39,875 - INFO - Image Path : artifacts/raw/Images\1.jpeg
+2025-10-25 21:38:40,590 - INFO - Loading Data for index 2
+2025-10-25 21:38:40,592 - INFO - Image Path : artifacts/raw/Images\100.jpeg
+2025-10-25 21:39:59,144 - INFO - Loading Data for index 8
+2025-10-25 21:39:59,188 - INFO - Image Path : artifacts/raw/Images\106.jpeg
+2025-10-25 21:39:59,998 - INFO - Loading Data for index 5
+2025-10-25 21:39:59,999 - INFO - Image Path : artifacts/raw/Images\103.jpeg
+2025-10-25 21:40:52,936 - INFO - <class 'list'>
+2025-10-25 21:40:53,195 - INFO - VAL_LOSS : [{'boxes': tensor([], size=(0, 4)), 'labels': tensor([], dtype=torch.int64), 'scores': tensor([])}, {'boxes': tensor([], size=(0, 4)), 'labels': tensor([], dtype=torch.int64), 'scores': tensor([])}]
+2025-10-25 21:40:56,125 - INFO - Model saved sucesfuly...

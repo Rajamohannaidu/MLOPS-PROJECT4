@@ -1,0 +1,37 @@
+2025-10-26 13:55:40,533 - INFO - Created the artifacts\raw
+2025-10-26 13:55:41,066 - INFO - Download the data from C:\Users\mohan\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-10-26 13:55:41,066 - INFO - Images folder dont exist..
+2025-10-26 13:55:41,066 - INFO - Labels folder dont exist..
+2025-10-26 13:56:01,115 - INFO - Model Architecture intialized...
+2025-10-26 13:56:01,115 - INFO - Model Moved to device
+2025-10-26 13:56:01,115 - INFO - Optimizer has been initialized..
+2025-10-26 13:56:01,115 - ERROR - Failed to do splitting data [WinError 3] The system cannot find the path specified: 'artifacts/raw/Images'
+2025-10-26 13:56:01,115 - ERROR - Failed to do train model Failed to do splitting data  | Error: [WinError 3] The system cannot find the path specified: 'artifacts/raw/Images' | File: D:\AIML\MLOPS\MLOPS-PROJECT4\src\model_training.py | Line: 49
+2025-10-26 13:58:13,520 - INFO - Download the data from C:\Users\mohan\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-10-26 13:58:13,521 - INFO - Images folder dont exist..
+2025-10-26 13:58:13,521 - INFO - Labels folder dont exist..
+2025-10-26 14:01:00,257 - INFO - Download the data from C:\Users\mohan\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-10-26 14:01:00,854 - INFO - Images moved sucesfully..
+2025-10-26 14:01:01,087 - INFO - Labels moved sucesfully..
+2025-10-26 14:01:27,468 - INFO - Model Architecture intialized...
+2025-10-26 14:01:27,470 - INFO - Model Moved to device
+2025-10-26 14:01:27,470 - INFO - Optimizer has been initialized..
+2025-10-26 14:01:27,472 - ERROR - Failed to do splitting data [WinError 3] The system cannot find the path specified: 'artifacts/raw/Images'
+2025-10-26 14:01:27,472 - ERROR - Failed to do train model Failed to do splitting data  | Error: [WinError 3] The system cannot find the path specified: 'artifacts/raw/Images' | File: D:\AIML\MLOPS\MLOPS-PROJECT4\src\model_training.py | Line: 49
+2025-10-26 14:03:26,929 - INFO - Download the data from C:\Users\mohan\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-10-26 14:03:27,162 - INFO - Images moved sucesfully..
+2025-10-26 14:03:27,376 - INFO - Labels moved sucesfully..
+2025-10-26 14:03:42,782 - INFO - Model Architecture intialized...
+2025-10-26 14:03:42,796 - INFO - Model Moved to device
+2025-10-26 14:03:42,796 - INFO - Optimizer has been initialized..
+2025-10-26 14:03:42,796 - ERROR - Failed to do splitting data [WinError 3] The system cannot find the path specified: 'artifacts/raw/Images'
+2025-10-26 14:03:42,796 - ERROR - Failed to do train model Failed to do splitting data  | Error: [WinError 3] The system cannot find the path specified: 'artifacts/raw/Images' | File: D:\AIML\MLOPS\MLOPS-PROJECT4\src\model_training.py | Line: 49
+2025-10-26 14:04:28,557 - INFO - Download the data from C:\Users\mohan\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-10-26 14:04:28,557 - INFO - Images folder dont exist..
+2025-10-26 14:04:28,557 - INFO - Labels folder dont exist..
+2025-10-26 14:05:40,011 - INFO - Download the data from C:\Users\mohan\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-10-26 14:05:40,011 - INFO - Images folder dont exist..
+2025-10-26 14:05:40,011 - INFO - Labels folder dont exist..
+2025-10-26 14:06:01,930 - INFO - Download the data from C:\Users\mohan\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-10-26 14:06:02,129 - INFO - Images moved sucesfully..
+2025-10-26 14:06:02,327 - INFO - Labels moved sucesfully..
