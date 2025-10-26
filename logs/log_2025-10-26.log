@@ -35,3 +35,53 @@
 2025-10-26 14:06:01,930 - INFO - Download the data from C:\Users\mohan\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
 2025-10-26 14:06:02,129 - INFO - Images moved sucesfully..
 2025-10-26 14:06:02,327 - INFO - Labels moved sucesfully..
+2025-10-26 14:21:02,251 - INFO - Created the artifacts\raw
+2025-10-26 14:21:06,489 - INFO - Download the data from C:\Users\mohan\.cache\kagglehub\datasets\issaisasank\guns-object-detection\versions\1
+2025-10-26 14:21:06,671 - INFO - Images moved sucesfully..
+2025-10-26 14:21:06,840 - INFO - Labels moved sucesfully..
+2025-10-26 14:21:24,988 - INFO - Model Architecture intialized...
+2025-10-26 14:21:25,005 - INFO - Model Moved to device
+2025-10-26 14:21:25,005 - INFO - Optimizer has been initialized..
+2025-10-26 14:21:25,005 - INFO - Data Processing Initialized...
+2025-10-26 14:21:25,038 - INFO - Data splitted sucesfuly...
+2025-10-26 14:21:25,038 - INFO - Starting epoch 0
+2025-10-26 14:21:25,105 - INFO - Loading Data for index 7
+2025-10-26 14:21:25,105 - INFO - Image Path : artifacts/raw/Images\105.jpeg
+2025-10-26 14:21:25,505 - INFO - Loading Data for index 8
+2025-10-26 14:21:25,505 - INFO - Image Path : artifacts/raw/Images\106.jpeg
+2025-10-26 14:21:25,528 - INFO - Loading Data for index 0
+2025-10-26 14:21:25,528 - INFO - Image Path : artifacts/raw/Images\1.jpeg
+2025-10-26 14:21:53,880 - INFO - Loading Data for index 6
+2025-10-26 14:21:53,915 - INFO - Image Path : artifacts/raw/Images\104.jpeg
+2025-10-26 14:21:54,639 - INFO - Loading Data for index 2
+2025-10-26 14:21:54,640 - INFO - Image Path : artifacts/raw/Images\100.jpeg
+2025-10-26 14:21:54,661 - INFO - Loading Data for index 9
+2025-10-26 14:21:54,661 - INFO - Image Path : artifacts/raw/Images\107.jpeg
+2025-10-26 14:22:21,339 - INFO - Loading Data for index 5
+2025-10-26 14:22:21,355 - INFO - Image Path : artifacts/raw/Images\103.jpeg
+2025-10-26 14:22:22,088 - INFO - Loading Data for index 4
+2025-10-26 14:22:22,104 - INFO - Image Path : artifacts/raw/Images\102.jpeg
+2025-10-26 14:22:37,824 - INFO - Loading Data for index 3
+2025-10-26 14:22:37,825 - INFO - Image Path : artifacts/raw/Images\101.jpeg
+2025-10-26 14:22:37,842 - INFO - Loading Data for index 1
+2025-10-26 14:22:37,843 - INFO - Image Path : artifacts/raw/Images\10.jpeg
+2025-10-26 14:22:47,300 - INFO - <class 'list'>
+2025-10-26 14:22:47,685 - INFO - VAL_LOSS : [{'boxes': tensor([[ 94.0019,  54.9975, 187.0450, 165.3203],
+        [  0.0000,  59.5751, 125.0303, 145.7094],
+        [ 50.6139,  82.6769, 178.4554, 164.4065],
+        [  2.8364, 118.2059, 237.4669, 167.4092],
+        [ 66.0986,  72.9169, 256.1947, 161.6776],
+        [  7.9780,  30.8128, 175.0536, 162.3649],
+        [ 99.1040,   8.9918, 222.7857, 150.6301]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.1000, 0.0838, 0.0801, 0.0699, 0.0689, 0.0605, 0.0525])}, {'boxes': tensor([[  0.0000,  59.4809,  91.2077, 174.6070],
+        [  0.0000, 138.5100,  80.8816, 284.8448],
+        [  0.0000, 160.8057, 159.7895, 294.3913],
+        [ 76.7907, 166.3894, 168.0000, 293.7219],
+        [  0.0000, 100.4399, 142.3163, 191.7579],
+        [ 16.4534, 229.3941, 168.0000, 296.7172],
+        [  0.0000, 104.4131,  93.7078, 234.8145],
+        [ 38.4701, 165.3708, 168.0000, 246.9260],
+        [  0.0000, 130.8116, 154.8651, 218.1553],
+        [ 57.1427, 119.9487, 168.0000, 231.3013],
+        [ 16.5482,  96.1860, 144.4127, 272.7602]]), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), 'scores': tensor([0.0882, 0.0849, 0.0804, 0.0764, 0.0719, 0.0704, 0.0694, 0.0654, 0.0645,
+        0.0621, 0.0582])}]
+2025-10-26 14:22:49,814 - INFO - Model saved sucesfuly...
